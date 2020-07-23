@@ -1,0 +1,26 @@
+why new tags in html5?
+the new tags are introduced to define semantic/structural elements,text-formatting instructions, form controls, input types, and etc.
+
+The difference between html elements and tags are, html represents the document structure where as, tags are simply a part 
+html syntax.a simple html is made of an opening tag and closing tag and some contents. 
+In case of element nesting, an html element can also contain other elements which are then called nested elements.
+
+the tags should be open with angle brackets and close with /
+for example:
+<html>
+<head>
+<body>
+<script>
+</script>
+</body>
+</head>
+</html>
+
+the tags should open and close in a correct manner.
+<area>	<base>	<br>	<col>	<embed>
+<hr>	<img>	<input>	<keygen>	<link>
+<meta>	<param>	<source>	<track>	<wbr>
+ 
+these are some of the new tags in html5.
+
+ 

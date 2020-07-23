@@ -1,0 +1,26 @@
+GET Method:
+ GET is used to request data from a specified resource.
+ the data which is visible in the URL as a query string of GET request.
+
+POST Method:
+ POST is used to send the data to a server to create or update a resuorce.
+ the data which sent to the server with POST is stored in the request body of the http request.
+
+GET Method vs POST Method
+
+GET Method:
+ 1.GET method can be bookmarked.
+ 2.GET method can be catched.
+ 3.This method has length restrictions.
+ 4.Data are visible in the URL as query string.
+ 5.This method is not used when sending passwords or secure data.
+ 6.GET request remain in the browsing history.
+
+POST Method:
+ 1.POST method cannot be bookmarked.
+ 2.whereas, POST Method cannot be cached.
+ 3.This method have no restrictions in data length.
+ 4.Data are not visible in the URL section.
+ 5.This method can be used to send secure data.
+ 6.POST request do not remain in the browsing history.
+ 

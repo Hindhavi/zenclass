@@ -1,0 +1,20 @@
+HTTP1.1 vs HTTP 2.0
+
+HTTP 1.1:
+1.which keeps all request in plain text format.
+2.http 1.1 requires 3 TCP for sending request.
+
+
+HTTP 2.0:
+1.http 2 uses the binary farming layer to encapsulate all messages in binary format,while still maintaining http semantics such as verbs,methods and headers.
+2.high-level compatibility with http1.1-methods,status codes,URIs and header fields.
+3.page load speed improvements.
+4.compression of request headers.
+5.HOL(head of line) blocking-package blocking
+6.request pipelining
+7.http 2.0 can send multiple request for data in parallel over a single TCP.
+8.Less prone to errors.
+9.lighter network footprint.
+10.effective network resource utilization.
+11.compact representation of commands or easier processing and implementation.
+
